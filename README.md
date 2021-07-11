@@ -175,7 +175,7 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
     
 1. **Inductive Representation Learning on Large Graphs.** NIPS 2017. [paper](https://arxiv.org/pdf/1706.02216.pdf)
 
-    *William L. Hamilton, Rex Ying, Jure Leskovec.*
+    *William L. Hamilton, Rex Ying, Jure Leskovec.* **FINISHED**
     
 1. **Geometric deep learning on graphs and manifolds using mixture model cnns.** CVPR 2017. [paper](https://arxiv.org/pdf/1611.08402.pdf)
 
