@@ -1842,7 +1842,7 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 
 1. **Link Prediction Based on Graph Neural Networks.** NeurIPS 2018. [paper](https://arxiv.org/pdf/1802.09691.pdf)
    
-    *Muhan Zhang, Yixin Chen.*
+    *Muhan Zhang, Yixin Chen.* **FINISHED**
 
 1. **DeepInf: Social Influence Prediction with Deep Learning.** KDD 2018. [paper](https://arxiv.org/pdf/1807.05560.pdf)
 
