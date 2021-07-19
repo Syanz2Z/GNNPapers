@@ -490,7 +490,7 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 
 1. **Adaptive Propagation Graph Convolutional Network.** IEEE TNNLS 2020. [paper](https://ieeexplore.ieee.org/document/9206045)
 
-	*Indro Spinelli, Simone Scardapane, Aurelio Uncini.*
+	*Indro Spinelli, Simone Scardapane, Aurelio Uncini.* **FINISHED**
 
      </details>
 
