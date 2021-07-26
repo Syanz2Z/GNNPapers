@@ -1854,7 +1854,7 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 
 1. **MCNE: An End-to-End Framework for Learning Multiple Conditional Network Representations of Social Network.** KDD 2019. [paper](https://arxiv.org/pdf/1905.11013)
 
-    *Hao Wang, Tong Xu, Qi Liu, Defu Lian, Enhong Chen, Dongfang Du, Han Wu, Wen Su.*
+    *Hao Wang, Tong Xu, Qi Liu, Defu Lian, Enhong Chen, Dongfang Du, Han Wu, Wen Su.* **FINISHED**
 
 1. **Is a Single Vector Enough? Exploring Node Polysemy for Network Embedding.** KDD 2019. [paper](https://arxiv.org/pdf/1905.10668)
 
