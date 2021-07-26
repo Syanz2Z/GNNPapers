@@ -1850,7 +1850,7 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 
 1. **Characterizing and Forecasting User Engagement with In-app Action Graph: A Case Study of Snapchat.** KDD 2019. [paper](https://arxiv.org/pdf/1906.00355)
 
-    *Yozen Liu, Xiaolin Shi, Lucas Pierce, Xiang Ren.*
+    *Yozen Liu, Xiaolin Shi, Lucas Pierce, Xiang Ren.* **FINISHED**
 
 1. **MCNE: An End-to-End Framework for Learning Multiple Conditional Network Representations of Social Network.** KDD 2019. [paper](https://arxiv.org/pdf/1905.11013)
 
